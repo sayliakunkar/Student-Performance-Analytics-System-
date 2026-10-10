@@ -1,5 +1,4 @@
 # Student-Performance-Analytics-System-
-# Student Performance Analytics System
 
 ## Project Overview
 The Student Performance Analytics System is a Python-based data analysis project that analyzes student marks and attendance to understand academic performance. It uses Pandas and NumPy to process student records and generate meaningful results.
