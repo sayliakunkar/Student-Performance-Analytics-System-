@@ -50,5 +50,4 @@ The objective of this project is to practice Python programming, data handling, 
 ## Expected Outcome
 The system provides a clear summary of student performance, subject-wise averages, grades, pass/fail results, and top performers.
 
-## Author
-Sayli Akunkar
+
